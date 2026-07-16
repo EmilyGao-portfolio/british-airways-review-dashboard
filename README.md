@@ -8,7 +8,7 @@ This project analyzes British Airways customer review data to understand custome
 - Tableau
 - Excel
 ## Dashboard
-[View the interactive Tableau dashboard]([PASTE-YOUR-TABLEAU-PUBLIC-LINK-HERE](https://public.tableau.com/views/BritishAirwaysReviews_17840357296840/Dashboard1?:language=en-US&:sid=&:redirect=auth&publish=yes&showOnboarding=true&:display_count=n&:origin=viz_share_link))
+[View the interactive Tableau dashboard]https://public.tableau.com/views/BritishAirwaysReviews_17840357296840/Dashboard1?:language=en-US&:sid=&:redirect=auth&publish=yes&showOnboarding=true&:display_count=n&:origin=viz_share_link
 ## Key Insights
 - Cabin staff service received the strongest average rating.
 - Entertainment received the weakest average rating.
